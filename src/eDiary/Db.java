@@ -1,4 +1,4 @@
-package ChapterSeven.EDiary;
+package eDiary;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;
